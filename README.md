@@ -1,5 +1,5 @@
 - Hi, I’m Ingrid Santana Dias
-- I’m currently learning how to code in these languages: Javascript,Python,Sql
+- I’m currently learning how to code in these languages: Java,Python,C
 - I'm interesed in learning new things that will help me in the future
 - I have a average English
 - How to reach me e-mail: santanaingriddias@gmail.com
